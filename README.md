@@ -34,8 +34,8 @@ These programs demonstrate:
 ---
 
 ### **Day 3** – Divide and Conquer
-1. [Merge Sort with execution time & comparisons](https://github.com/tarunkrjaiswal/DAA/blob/main/Day%203/program1.c)  
-2. [Quick Sort with best/worst-case detection](https://github.com/tarunkrjaiswal/DAA/blob/main/Day%203/program2.c)  
+1. [Insertion sort with loop iteration count for user input](https://github.com/tarunkrjaiswal/DAA/blob/main/Day%203/program1.c)  
+2. [Insertion sort with loop iteration count for random integers via srand](https://github.com/tarunkrjaiswal/DAA/blob/main/Day%203/program2.c)  
 
 ---
 
