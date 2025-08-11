@@ -37,49 +37,6 @@ These programs demonstrate:
 1. [Insertion sort with loop iteration count for user input](https://github.com/tarunkrjaiswal/DAA/blob/main/Day%203/program1.c)  
 2. [Insertion sort with loop iteration count for random integers via srand](https://github.com/tarunkrjaiswal/DAA/blob/main/Day%203/program2.c)  
 
----
-
-### **Day 4** – Heap & Priority Queues *(Pending Upload)*
-1. Min-heap creation (based on age)  
-2. Max-heap creation (based on weight)  
-3. Heap operations (insert, delete, find min/max)
-
----
-
-### **Day 5** – Greedy Techniques *(Pending Upload)*
-1. Fractional Knapsack Problem  
-2. Huffman Coding
-
----
-
-### **Day 6** – Greedy Techniques (Contd.) *(Pending Upload)*
-1. Prim’s Algorithm – Minimum Spanning Tree  
-2. Kruskal’s Algorithm – Minimum Spanning Tree
-
----
-
-### **Day 7** – Greedy Techniques (Contd.) *(Pending Upload)*
-1. Dijkstra’s Algorithm – Single Source Shortest Path
-
----
-
-### **Day 8** – Dynamic Programming *(Pending Upload)*
-1. Matrix Chain Multiplication  
-2. Longest Common Subsequence (LCS)
-
----
-
-### **Day 9** – Dynamic Programming – All Pair Shortest Path *(Pending Upload)*
-1. Floyd–Warshall Algorithm
-
----
-
-### **Day 10** – Amortization & Randomized Algorithms *(Pending Upload)*
-1. Randomized Quick Sort  
-2. Fibonacci number representation (fitstring)  
-3. Binary counter with amortized analysis
-
----
 
 ## ⚙️ Compilation & Execution
 All programs are written in standard C and can be compiled with GCC:
