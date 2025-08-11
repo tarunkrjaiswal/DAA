@@ -30,9 +30,6 @@ These programs demonstrate:
 1. [Decimal to binary (recursion, file I/O)](https://github.com/tarunkrjaiswal/DAA/blob/main/Day%202/program1.c)  
 2. [GCD of pairs (recursion, file I/O)](https://github.com/tarunkrjaiswal/DAA/blob/main/Day%202/program2.c)  
 
-**Practice Folder:**  
-- [Decimal to binary – practice](https://github.com/tarunkrjaiswal/DAA/blob/main/Day%202/Day2%20practice/program1.c)  
-- [GCD – practice](https://github.com/tarunkrjaiswal/DAA/blob/main/Day%202/Day2%20practice/program2.c)  
 
 ---
 
