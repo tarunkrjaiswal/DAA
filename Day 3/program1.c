@@ -18,25 +18,21 @@ void ins_sort(int a[],int n){ // Insertion sort
 }
 
 int main() {
-    int n;
+   int n;
     printf("Enter number of elements: ");
     scanf("%d", &n);
 
-    int *arr = (int*)malloc(n * sizeof(int));
-    if (!arr) {
-        printf("Memory allocation failed.\n");
-        return 1;
+    int a[n];
+    printf("Enter elements: ");
+    for (int i = 0; i < n; i++) {
+        scanf("%d", &a[i]);
     }
 
-    printf("Enter %d elements:\n", n);
-    for (int i = 0; i < n; i++)
-        scanf("%d", &arr[i]);
-
-    ins_sort(arr, n);
+    ins_sort(a, n);
 
     printf("Sorted array:\n");
     for (int i = 0; i < n; i++)
-        printf("%d ", arr[i]);
+        printf("%d ", a[i]);
     printf("\n");
 
     printf("loop runs for %d times\n", count);
