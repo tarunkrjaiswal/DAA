@@ -28,7 +28,7 @@ int main() {
         return 1;
     }
 
-    //srand(time(NULL)); // Seed the random number generator
+    srand(time(NULL)); // Seed the random number generator
 
     for (int i = 0; i < 300; i++) { // Generating random numbers from 1 to 300
         int num = (rand() % 300) + 1;
